@@ -6,5 +6,5 @@ Nous travaillons sur un petit échantillon de données issu d'Instagram récolt�
 L'objectif est de répondre à la problématique de l'entreprise : 
 <i>Identifier les meilleurs influenceurs pour relayer la communication de l'entreprise Omaj afin de se développer sur le territoire français. </i>
 
-Le repos est composé du dossier final, d'un fichier PowerPoint, des données brutes et enfin le code dans lequel nous mettons en place une visualisation sous la forme d'un graphe afin de mettre en évidence les différentes relations.
+Le repos est composé du dossier final, d'un fichier PowerPoint, des données brutes et enfin le code dans lequel nous mettons en place une visualisation sous la forme d'un graphe avec la bibliothèque NetworkX afin de mettre en évidence les différentes relations.
 
